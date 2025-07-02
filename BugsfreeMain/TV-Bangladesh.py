@@ -258,7 +258,7 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [
         "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "https://iptv.fcnchbd.xyz/iptv.m3u",
         "https://raw.githubusercontent.com/Yeadee/Toffee/refs/heads/main/toffee_ns_player.m3u",
         "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
         "https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8",
